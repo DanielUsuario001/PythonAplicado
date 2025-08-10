@@ -42,7 +42,8 @@ A lo largo de las cinco sesiones del taller, consolidé mis conocimientos en Pyt
 | **Anaconda**  | 2024.x        | [Anaconda.com](https://www.anaconda.com/download) *(Para acceder a Jupyter Notebook)* |
 
 
-> **Agradecimiento especial a Fabricio Luna (<luna.f@pucp.edu.pe>) por su guía y dedicación como profesor del curso.**
+> **Agradecimiento especial a Fabricio Luna (<luna.f@pucp.edu.pe>) por su guía y dedicación como profesor del curso.**  
+> **También agradezco a mis compañeros de tarea y proyecto por su colaboración: Rodrigo Escalante, David Chavez, Aki Cajacuri y Gabriela Sotomayor**.
 
 ---
 
